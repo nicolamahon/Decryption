@@ -1,2 +1,2 @@
-# Decryption
-Various decryption programs made using Python. 
+# Security
+Various decryption and number theory applications made using Python. 
